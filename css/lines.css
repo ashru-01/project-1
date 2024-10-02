@@ -1,0 +1,225 @@
+/* first content */
+.card{
+    width:95vw;
+    height:15vh;
+    padding: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:10px;
+    background-color:white;
+    
+}
+
+.card-item1{
+  display:inline-flex ;
+  justify-content: center;
+  flex-direction: column;
+  margin: 0px 35px;
+  width: 65px;
+  height:65px;
+  cursor: pointer;
+}
+.card-item2{
+    display:inline-flex ;
+    justify-content: center;
+    flex-direction: column;
+    width: 65px;
+    height:65px;
+    margin: 0px 35px;
+    cursor: pointer;
+  }
+  .card-item3{
+    display:inline-flex ;
+    justify-content: center;
+    flex-direction: column;
+    width: 65px;
+    height:65px;
+    margin: 0px 35px;
+    cursor: pointer;
+  }
+  .card-item4{
+    display:inline-flex ;
+    justify-content: center;
+    flex-direction: column;
+    width: 75px;
+    height:65px;
+    margin: 0px 35px;
+    cursor: pointer;
+  }
+  .electronics{
+    padding: 11px 0 0 0;
+  }
+  .l-4{
+    padding: 5px 0 0 ;
+  }
+  .card-item5{
+    display:inline-flex ;
+    justify-content: center;
+    flex-direction: column;
+    width: 69px;
+    height: 65px;
+    margin: 0px 35px;
+    padding: 21px 0 0 0;
+    cursor: pointer;
+  }
+  .l-5{
+    padding: 6px 0 0 0;
+  }
+  .card-item6{
+    display:inline-flex ;
+    justify-content: center;
+    flex-direction: column;
+    width: 75px;
+    height: 65px;
+    margin: 0px 35px;
+    cursor: pointer;
+  }
+ .apliances{
+  padding: 5px 0 0px 0;
+ } 
+ .l-6{
+  padding: 0px 0 8px 0;
+ }
+  .card-item7{
+    display:inline-flex ;
+    justify-content: center;
+    flex-direction: column;
+    width: 74px;
+    height: 65px;
+    margin: 0px 35px;
+    cursor: pointer;
+  }
+  .travel{
+    padding: 4px 0 10px 0;
+  }
+  .l-7{
+    padding: 0 0 23px 0;
+  }
+  .card-item8{
+    display:inline-flex ;
+    justify-content: center;
+    flex-direction: column;
+    width: 65px;
+    height:65px;
+    margin: 0px 35px;
+    cursor: pointer;
+  }
+  .beauty{
+    padding: 17px 0 0 0;
+  }
+  .l-8{
+    padding: 5px 0 0px 0 ;
+  }
+  .card-item9{
+    display:inline-flex ;
+    justify-content: center;
+    flex-direction: column;
+    width: 80px;
+    height: 65px;
+    margin: 0px 35px;
+    cursor: pointer;
+  } 
+  .l-9{
+    padding: 11px 0px 0 0;
+  }
+  /* second content */
+.offers{
+  width: 100.5vw;
+  height: 30vh;
+  margin: 0px 0px 0 -28px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.n1{
+  height:30vh;
+  width: 100vw;
+  margin: 0 -30px 0 0px;
+}
+.button1{
+  background-color:white;
+  font-size: 20px;
+  padding: 30px 12px;
+  position: relative;
+  left: 35px;
+  border-radius: 0 10px 10px 0;
+  cursor: pointer;
+}
+.button2{
+  background-color:white;
+  font-size: 20px;
+  padding: 30px 12px;
+  position: relative;
+  left:-5px;
+  border-radius:10px 0 0  10px ;
+  cursor: pointer;
+}
+/* monile content */
+.ph{
+  width:160px;
+  height:160px;
+}
+.ph:hover{
+  width: 162px;
+  height:162px;
+}
+.mobile{
+  max-width: 97.5vw;
+  margin:auto;
+  background-color: white;
+  height:44vh;
+  margin:10px 10px;
+}
+.mobile h2{
+ margin: 10px 10px;
+ padding: 10px 0 10px 0;
+ 
+}
+.btn{
+  height: 15px;
+  width: 15px;
+  background-color: blue;
+  color: white;
+  padding: 4px;
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  border-radius:15px;
+  position: relative;
+  left:1440px;
+  margin: -45px 0 8px 0;
+  cursor: pointer;
+}
+.btn:hover{
+  height:16px;
+  width: 16px;
+}
+.item{
+  display: inline-flex;
+  justify-content: center;
+  flex-direction: column;
+  margin: 0 10px;
+  cursor: pointer;
+  border: 1px solid rgb(215, 211, 211);
+  border-radius: 3px;
+  padding: 3px;
+}
+
+.items{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+/* eletronics conten */
+.electronics{
+  max-width: 97.5vw;
+  margin:auto;
+  background-color: white;
+  height:44vh;
+  margin:10px 10px;
+}
+.electronics h2{
+  margin: 10px 10px;
+  padding: 0 0 10px 0;
+ }
